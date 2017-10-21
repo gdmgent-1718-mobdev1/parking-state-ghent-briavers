@@ -1,0 +1,48 @@
+
+.parkingSlot{
+  border-radius: 2%;
+  width: 45%;
+  padding: 25px;
+  box-sizing: border-box;
+  float: left;
+  margin: 2%;
+}
+
+.red{
+ background-color: lightcoral;
+}
+
+.orange{
+ background-color: lightsalmon;
+}
+
+.green{
+ background-color: lightgreen;
+}
+.yellow{
+  background-color: lightyellow;
+}
+
+.equal{
+  color: blue;
+  font-size: 2em;
+  font-weight: bold;
+  position: relative;
+  top: 5px;
+
+}
+.less{
+  color: red;
+  font-size: 2em;
+  font-weight: bold;
+  
+}.more{
+  color: green;
+  font-size: 2em;
+  font-weight: bold;
+  
+}
+
+p{
+  line-height: 25px;
+}
